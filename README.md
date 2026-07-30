@@ -187,30 +187,12 @@ The developed pipeline successfully detects and tracks small aerial objects in r
 
 ---
 
-## 👩‍💻 Authors
+## 👩‍💻 Author
 
 **Monika Sengar**
-
-**Tanya Shrivastava**
-
----
-
-## 📄 License
-
-This project is intended for educational, academic, and research purposes.
-
----
-
-## ⭐ Acknowledgements
-
-- Ultralytics YOLOv8
-- OpenCV
-- NumPy
-- SciPy
-- Kalman Filter
-- Python Community
-
-Author
-Monika Sengar
 B.Tech CSE(AI&ML)
 Khwaja Moinuddin Chisti Language University Lucknow
+
+
+
+
